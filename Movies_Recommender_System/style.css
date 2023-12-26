@@ -1,0 +1,44 @@
+/* header */
+header.css-1avcm0n.ezrtsby2 {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+/* background */
+section.main.css-uf99v8.ea3mdgi5 {
+  background-image: url('https://source.unsplash.com/9Y_b6ujUSZM');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+
+div.css-1fjr796.e1f1d6gn1 {
+  position: relative;
+  padding: 5px;
+
+}
+
+/* movies background box */
+div.css-1fjr796 {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  border: white 1px solid;
+  box-shadow: 3px 3px rgba(255, 255, 255, 0.4);
+}
+
+/* movies title  */
+div.css-183lzff {
+  color: rgb(255, 0, 0);
+}
+
+/* more details */
+div.css-nahz7x {
+  color: rgb(255, 255, 255);
+}
+
+/* movies poster border */
+div.css-1kyxreq {
+  border: rgb(0, 255, 76) 1px solid;
+}
+
+
